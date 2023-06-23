@@ -1,0 +1,5 @@
+echo This is not a script
+echo Hello World
+ls -l
+who | wc -l
+/etc/passwd | wc -l
